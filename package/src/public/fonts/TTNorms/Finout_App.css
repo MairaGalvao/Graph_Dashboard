@@ -1,0 +1,42 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4104260, 2021-06-16T04:37:43-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: TTNormsPro-Bold by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-norms/bold/
+ * 
+ * Webfont: TTNormsPro-Medium by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-norms/medium/
+ * 
+ * Webfont: TTNormsPro-Normal by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-norms/normal/
+ * 
+ * 
+ * Webfonts copyright: Copyright (c) 2016-2019 by TypeType. Designers Ivan Gladkikh, Pavel Emelyanov. Technical designers Vika Usmanova, Olexa Volochay, Nadyr Rakhimov, Yuri Nakonechny. All rights reserved.
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3ea044");
+  
+@font-face {
+  font-family: "TTNormsPro-Bold";
+  src: url('webFonts/TTNormsProBold/font.woff2') format('woff2'), url('webFonts/TTNormsProBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TTNormsPro-Medium";
+  src: url('webFonts/TTNormsProMedium/font.woff2') format('woff2'), url('webFonts/TTNormsProMedium/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TTNormsPro-Normal";
+  src: url('webFonts/TTNormsProNormal/font.woff2') format('woff2'), url('webFonts/TTNormsProNormal/font.woff') format('woff');
+}
+

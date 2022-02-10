@@ -1,0 +1,15 @@
+option {
+    position: relative;
+  }
+  
+
+
+  option:after {
+    content: 'Enter your number';
+    position: absolute;
+    left: 5px;
+    top: 0;
+    color: #bbb;
+  }
+
+

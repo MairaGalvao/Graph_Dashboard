@@ -1,0 +1,67 @@
+[
+  {
+    "time": 1622505600000,
+    "kpi_name": "num_bytes",
+    "ppu_value": 4,
+    "total_cost": 0,
+    "total_kpi": 24.50546506419778,
+    "unit_aggregation_count": 1073741824,
+    "cloud_service": "AmazonCloudWatch",
+    "region": "us-east-1",
+    "aws_usage_type": "CW:Requests",
+    "end": "20210701",
+    "context_id": 4
+  },
+  {
+    "time": 1622505600000,
+    "kpi_name": "num_bytes",
+    "ppu_value": 0,
+    "total_cost": 0,
+    "total_kpi": 24.50546506419778,
+    "unit_aggregation_count": 1073741824,
+    "cloud_service": "AmazonCloudWatch",
+    "region": "us-east-1",
+    "aws_usage_type": "CW:Requests",
+    "end": "20210701",
+    "context_id": 4
+  },
+  {
+    "time": 1622505600000,
+    "kpi_name": "num_bytes",
+    "ppu_value": 0.0013602408080269264,
+    "total_cost": 0.0333333336,
+    "total_kpi": 24.50546506419778,
+    "unit_aggregation_count": 1073741824,
+    "cloud_service": "awskms",
+    "region": "us-east-1",
+    "aws_usage_type": "us-east-1-KMS-Keys",
+    "end": "20210701",
+    "context_id": 4
+  },
+  {
+    "time": 1622505600000,
+    "kpi_name": "num_bytes",
+    "ppu_value": 0,
+    "total_cost": 0,
+    "total_kpi": 24.50546506419778,
+    "unit_aggregation_count": 1073741824,
+    "cloud_service": "EC2-Transfer",
+    "region": "us-east-1",
+    "aws_usage_type": "USE1-USW2-AWS-In-Bytes",
+    "end": "20210701",
+    "context_id": 4
+  },
+  {
+    "time": 1622678400000,
+    "kpi_name": "num_bytes",
+    "ppu_value": 2,
+    "total_cost": 0,
+    "total_kpi": 3.8027335880324244,
+    "unit_aggregation_count": 1073741824,
+    "cloud_service": "AmazonDynamoDB",
+    "region": "eu-west-3",
+    "aws_usage_type": "EUW3-DataTransfer-In-Bytes",
+    "end": "20210701",
+    "context_id": 4
+  }
+]
